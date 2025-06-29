@@ -20,7 +20,7 @@ Usage
 - Open a browser tab on 9gag.com and log in.
 - Open the Developer tools of your browser (generally, by hitting the F12 keyboard key or right-clicking on the page > Inspect).
 - Go to the _Console_ tab of the Developer tools.
-- Copy-paste the code from the `browser.js` file of this repo into the developer console.
+- Copy-paste the code from the `blocker.js` file of this repo into the developer console.
 - Do what your browser instructs you to do to allow pasting (generally, it's as simple as typing _allow pasting_ or similar).
 - Optionally edit the `usersToBlock` at the beginning. The default list is quite short and based on [this 9gag post](https://9gag.com/gag/avyR32n "9gag post that gave me the idea for this script").
 - Type `blockAllUsers()` in the console, hit _Enter_ and let the script run :)
